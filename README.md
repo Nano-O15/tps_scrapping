@@ -4,6 +4,7 @@
 
 Le TP consiste en une application web permettant de collecter, stocker et explorer des articles en ligne depuis le Blog du Modérateur. 
 Il est composé d'un scraper qui extrait les données d'articles, d'une API REST pour les interroger, et d'une interface utilisateur React pour visualiser et filtrer les résultats.
+Pour des raisons de temps, le TP s'arrête au bout de 3 pages scrapées par catégorie mais le nombre max de pages est modifiable dans le code du fichier 'bs4_tp.py'. 
 
 ## Fonctionnalités principales
 
